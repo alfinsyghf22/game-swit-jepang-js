@@ -1,0 +1,1 @@
+# game-swit-jepang-js
